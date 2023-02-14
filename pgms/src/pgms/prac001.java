@@ -1,6 +1,6 @@
 package pgms;
 
-public class prac1 {
+public class prac001 {
 
 	public static void main(String[] args) {
 
