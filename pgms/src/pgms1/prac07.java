@@ -18,6 +18,7 @@ public class prac07 {
 		}
 		System.out.println(answer);
 		
+		
 
 	}
 
