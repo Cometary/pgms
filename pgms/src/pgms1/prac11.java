@@ -12,8 +12,9 @@ public class prac11 {
 		Arrays.sort(c);
 		String answer = String.valueOf(c);
 		
-		System.out.println(answer);
 		
+		System.out.println(answer);
+		System.out.println(answer);
 		
 		
 	}
