@@ -7,9 +7,6 @@ public class prac03 {
 		my = my.replaceAll("[^0-9]", "");
 		System.out.println(my);
 		
-		
-		
-		
 
 	}
 
