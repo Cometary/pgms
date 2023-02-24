@@ -3,6 +3,7 @@ package pgms2;
 public class prac04 {
 
 	public static void main(String[] args) {
+		//
 		String bin1 = "0";
 		String bin2 = "0";
 		String answer = "";
