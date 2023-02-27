@@ -9,7 +9,7 @@ public class prac07 {
 		int answer;
 		answer = numbers[(2*k-1)%numbers.length-1];
 		System.out.println(answer);
-		System.out.println(answer);
+		
 		
 		
 		
