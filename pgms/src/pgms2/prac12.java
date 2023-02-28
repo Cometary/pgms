@@ -25,6 +25,7 @@ public class prac12 {
 		
 //		answer = n;
 		System.out.println(answer);
+		System.out.println(answer);
 		
 
 	}
