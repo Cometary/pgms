@@ -27,7 +27,6 @@ public class prac12 {
 		System.out.println(answer);
 		System.out.println(answer);
 		System.out.println(answer);
-		System.out.println(answer);
 		
 
 	}
