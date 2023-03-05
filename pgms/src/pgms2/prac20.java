@@ -28,6 +28,7 @@ public class prac20 {
 		}
 		
 		
+		System.out.println();
 	}
 
 }
