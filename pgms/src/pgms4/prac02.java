@@ -6,11 +6,12 @@ public class prac02 {
 		int x = 2;
 		int n = 5;
 		int a = x;
+		long b = x;
 		long[] answer = new long[n];
 		
 		for(int i=0; i<n; i++) {
-			answer[i] = x;
-			x+=a;
+			answer[i] = b;
+			b+=a;
 		}
 
 		
