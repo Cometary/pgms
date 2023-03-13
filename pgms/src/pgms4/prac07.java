@@ -1,6 +1,6 @@
 package pgms4;
 
-public class prca07 {
+public class prac07 {
 
 	public static void main(String[] args) {
 		String s = "-1234";
