@@ -29,7 +29,6 @@ public class prac02 {
 		}
 		int answer = x*y;
 		System.out.println(answer);
-		System.out.println(answer);
 		
 		
 
