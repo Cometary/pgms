@@ -4,9 +4,9 @@ public class prac07 {
 
 	public static void main(String[] args) {
 		//문제
-		String s = "aukksaazzazazazazazaazzzzz";
-		String skip = "bcdefghijk";
-		int index = 20;
+		String s = "aukks";
+		String skip = "wbqd";
+		int index = 5;
 		//사전준비
 		String answer = "";
 		String[] alpha = new String[26-skip.length()];
