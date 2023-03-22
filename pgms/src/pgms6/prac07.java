@@ -29,6 +29,7 @@ public class prac07 {
 			answer += alpha[tmp];
 		}
 		System.out.println(answer);
+		//문자열로만 하면 10ms, 배열을 더하면 1ms의 속도가 나옴
 	}
 
 }
