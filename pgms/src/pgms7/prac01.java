@@ -7,6 +7,7 @@ public class prac01 {
 		String[] cards2 = {"want", "to"};
 		String[] goal = {"i", "want", "to", "drink", "water"};
 		System.out.println();
+		System.out.println();
 		
 		
 		
