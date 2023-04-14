@@ -37,6 +37,7 @@ public class prac01 {
 			}
 		}
 		System.out.println(answer);
+		System.out.println(answer);
 		
 		
 		
