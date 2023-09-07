@@ -13,7 +13,6 @@ public class Ex147355 {
 			answer += Long.parseLong(p) >= Long.parseLong(t.substring(i, i+pl)) ? 1 : 0;
 		}
 	
-		
 		System.out.println(answer);
 
 	}
